@@ -1,5 +1,5 @@
 # Sensor Data Fusion
-Grid Map ROS Exercise to generate a grid map using the data from an laser scanner, using a probabilistic approach for calculate the occupancy probability.
+Grid Map ROS Exercise to generate a grid map using the data from an laser scanner, using a probabilistic approach for calculating the occupancy probability.
 
 ## Goals of the exercise
 - [x] Generation of a chess board as grid map  (completed)
